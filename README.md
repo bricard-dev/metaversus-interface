@@ -16,6 +16,7 @@ Modern SPA with Next.js, ReactJS, TailwindCSS & Framer Motion.
 ## General Information
 
 ![Demo](https://i.imgur.com/b90UgaN.png)
+[Live demo](https://bricard-dev.github.io/metaversus-interface/)
 
 This project is inspired by a youtube video project created by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery). It aims to improve my skills in the JavaScript framework ReactJS, CSS framework Tailwind and Framer Motion for animation.
 
