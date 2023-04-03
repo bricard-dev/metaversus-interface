@@ -20,10 +20,7 @@ const World = () => (
       <TitleText
         title={
           // eslint-disable-next-line react/jsx-wrap-multilines
-          <>
-            Track friends around you and invite them to play together in the
-            same world
-          </>
+          <>Track friends around you and invite them to play together in the same world</>
         }
         textStyles="text-center"
       />
@@ -32,11 +29,7 @@ const World = () => (
         variants={fadeIn('up', 'tween', 0.3, 1)}
         className="relative mt-[68px] flex w-full max-h-[550px]"
       >
-        <img
-          src="/world-map.svg"
-          alt="map"
-          className="w-full h-full object-cover"
-        />
+        <img src="./world-map.svg" alt="map" className="w-full h-full object-cover" />
         {/* I preferred to use image with widget than add widget to the image */}
         {/* <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img src="people-01.png" alt="people" className="w-full h-full" />

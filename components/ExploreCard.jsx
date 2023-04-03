@@ -14,7 +14,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
     onClick={() => handleClick(id)}
   >
     <img
-      src={imgUrl}
+      src={`.${imgUrl}`}
       alt={title}
       className="absolute w-full h-full object-cover rounded-[24px]"
     />
@@ -27,18 +27,12 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
         <div
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
-          <img
-            src="/headset.svg"
-            alt="headset"
-            className="w-1/2 h-1/2 object-contain"
-          />
+          <img src="./headset.svg" alt="headset" className="w-1/2 h-1/2 object-contain" />
         </div>
         <p className="font-normal text-[16px] leading-[20px] text-white uppercase">
           Enter the Metaverse
         </p>
-        <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
-          {title}
-        </h2>
+        <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">{title}</h2>
       </div>
     )}
   </motion.div>

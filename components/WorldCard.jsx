@@ -8,18 +8,14 @@ const WorldCard = ({ position, imgUrl, title }) => (
     <div className="absolute left-[10%] bottom-5">
       <div className="flex items-center mb-2">
         <div className="relative w-[54px] h-[24px]">
+          <img src="./people-04.svg" alt="people" className="absolute w-[24px] h-[24px] z-30" />
           <img
-            src="people-04.svg"
-            alt="people"
-            className="absolute w-[24px] h-[24px] z-30"
-          />
-          <img
-            src="people-05.svg"
+            src="./people-05.svg"
             alt="people"
             className="absolute w-[24px] h-[24px] left-[11px] z-20"
           />
           <img
-            src="people-06.svg"
+            src="./people-06.svg"
             alt="people"
             className="absolute w-[24px] h-[24px] left-[22px] z-10"
           />
