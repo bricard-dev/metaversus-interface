@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Metaversus Interface
 
-## Getting Started
+![GitHub Repo stars](https://img.shields.io/github/stars/bricard-dev/metaversus-interface)
+![GitHub forks](https://img.shields.io/github/forks/bricard-dev/metaversus-interface)
+![GitHub issues](https://img.shields.io/github/issues/bricard-dev/metaversus-interface)
 
-First, run the development server:
+Modern SPA with Next.js, ReactJS, TailwindCSS & Framer Motion.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [General information](#general-information)
+  - [Technologies](#technologies)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgments)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## General Information
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Demo](https://imgur.com/a/EUJrg9T)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This project is inspired by a youtube video project created by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery). It aims to improve my skills in the JavaScript framework ReactJS, CSS framework Tailwind and Framer Motion for animation.
 
-## Learn More
+### Technologies
 
-To learn more about Next.js, take a look at the following resources:
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+- ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Github [@bricard-dev](https://github.com/bricard-dev) · Website [bastienricard.com](https://bastienricard.com) · Email bastien.ricard-dev@outlook.com
 
-## Deploy on Vercel
+## Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [MDN](https://developer.mozilla.org/en-US/)
+- [Vite](https://vitejs.dev/)
+- [ReactJS](https://reactjs.org)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Shields.io](https://shields.io)
