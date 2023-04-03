@@ -30,7 +30,7 @@ const Hero = () => (
 
       <motion.div
         variants={slideIn('right', 'tween', 0.2, 1)}
-        className="relative w-full md:-mt-[20px] -mt-[12px] -top-[30px]"
+        className="relative w-full md:-mt-[48px] -mt-[30px]"
       >
         <img
           src="/cover.png"
